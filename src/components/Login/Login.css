@@ -1,0 +1,23 @@
+.login-pic{
+    background-image: linear-gradient(blue, darkblue);
+    color: white;
+    height: 655px;
+    /* margin-top: 5rem; */
+}
+
+.login_form{
+    padding: 4rem;
+    padding-right: 6rem;
+    margin-left: -2rem;
+    margin-top: 3rem;
+    
+}
+
+.headLine{
+    margin-top: 14rem;
+}
+
+.form{
+    margin-right: 6rem;
+
+}
